@@ -13,4 +13,4 @@
 - **Quạt gió DC**
 - **Ngôn ngữ:** C/C++ (Arduino IDE)
 ## Mạch 3D
-![Thiết bị làm khô mũ bảo hiểm](altium/ngoc_maysay1/helmet.jpg)
+![Thiết bị làm khô mũ bảo hiểm](altium/ngoc_maysay1/helmet.png)
