@@ -1,0 +1,59 @@
+Removed Pin From Net: NetName=GND Pin=AMS1-1
+Removed Pin From Net: NetName=3.3V Pin=AMS1-2
+Removed Pin From Net: NetName=3.3V Pin=AMS1-4
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=3.3V Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C8-2
+Removed Pin From Net: NetName=NetD4_1 Pin=Q2-2
+Removed Pin From Net: NetName=GND Pin=Q2-3
+Removed Pin From Net: NetName=Vin Pin=U2-1
+Removed Pin From Net: NetName=NetD3_2 Pin=U2-2
+Removed Pin From Net: NetName=GND Pin=U2-3
+Removed Pin From Net: NetName=GND Pin=U2-5
+Removed Pin From Net: NetName=GND Pin=U2-6
+Removed Member From Class: ClassName=ngoc_say Member=AMS1
+Removed Member From Class: ClassName=ngoc_say Member=C7
+Removed Member From Class: ClassName=ngoc_say Member=C8
+Removed Member From Class: ClassName=ngoc_say Member=U2
+Change Component Footprint: Designator=Q2 Old Footprint=SOT23B New Footprint=SOT-23
+Change Component Comment : Designator=R7 Old Comment=1K New Comment=10K
+Change Component Comment : Designator=Q2 Old Comment=C1815 New Comment=2n2222
+Change component parameters: Designator = "RL1" ("RL1"); Footprint = "RELAY5PIN-10A"; UniqueID = "\ZIYEPETA" ("\ZIYEPETA")
+Change component parameters (AddParameter): Name = "Value"; Value = "Relay 12V - 10A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "RES_0805"; UniqueID = "\ODAIFROI" ("\ODAIFROI")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturing Part Number"; Value = "RC0805FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number-1"; Value = "311-10.0KCRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier-1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q2" ("Q2"); Footprint = "SOT23B"; UniqueID = "\EGDHMXMW" ("\EGDHMXMW")
+Change component parameters (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LM1(LM2576 NEW)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001260"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "LM2576S-3.3V BUCK 3.3V 3A TO263-5"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=C11-1
+Added Pin To Net: NetName=Vin Pin=D4-2
+Added Pin To Net: NetName=3.3V Pin=L1-2
+Added Pin To Net: NetName=Vin Pin=LM1-1
+Added Pin To Net: NetName=NetD3_2 Pin=LM1-2
+Added Pin To Net: NetName=GND Pin=LM1-3
+Added Pin To Net: NetName=3.3V Pin=LM1-4
+Added Pin To Net: NetName=GND Pin=LM1-5
+Added Pin To Net: NetName=GND Pin=LM1-6
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=NetD4_1 Pin=Q2-3
+Added Pin To Net: NetName=Vin Pin=R7-1
+Added Pin To Net: NetName=Vin Pin=RL1-5
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=U3-4
+Added Net: Name=NetR7_2
+Added Member To Class: ClassName=ngoc_say Member=Component LM1 LM2576_3.3V

@@ -1,0 +1,54 @@
+Removed Pin From Net: NetName=GND Pin=C12-1
+Removed Pin From Net: NetName=GND Pin=C13-1
+Removed Pin From Net: NetName=3.3V Pin=Q4-2
+Removed Pin From Net: NetName=NetL2_10 Pin=Q4-3
+Removed Pin From Net: NetName=3.3V Pin=Q5-2
+Removed Pin From Net: NetName=NetL2_5 Pin=Q5-3
+Removed Pin From Net: NetName=OSC_INC Pin=Y2-1
+Removed Pin From Net: NetName=OSC_OUTC Pin=Y2-4
+Removed Member From Class: ClassName=ngoc_say Member=C12
+Removed Member From Class: ClassName=ngoc_say Member=C13
+Removed Member From Class: ClassName=ngoc_say Member=Y2
+Change Component Footprint: Designator=Q4 Old Footprint=SOT23B New Footprint=SOT23
+Change Component Footprint: Designator=Q5 Old Footprint=SOT23B New Footprint=SOT23
+Change Component Comment : Designator=L1 Old Comment=100uH 3A New Comment=220uH 3A
+Change Component Comment : Designator=Q4 Old Comment=C1815 New Comment=A 1015
+Change Component Comment : Designator=Q5 Old Comment=C1815 New Comment=A 1015
+Change component parameters: Designator = "Q4" ("Q4"); Footprint = "SOT23B"; UniqueID = "\HPVHCWVO" ("\HPVHCWVO")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH001957"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "A1015 SOT23 TRANS PNP 0.15A 50V ( SMD-BA)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q5" ("Q5"); Footprint = "SOT23B"; UniqueID = "\JEOPDMCL" ("\JEOPDMCL")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH001957"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "A1015 SOT23 TRANS PNP 0.15A 50V ( SMD-BA)"; VariantName = "[No Variations]"
+Added Component: Designator=C7(tu 0603)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004568"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 0603 104-100nF 10% 50V"; VariantName = "[No Variations]"
+Added Component: Designator=C8(tu 0603)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004568"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 0603 104-100nF 10% 50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vin Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=3.3V Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=NetL2_10 Pin=Q4-2
+Added Pin To Net: NetName=3.3V Pin=Q4-3
+Added Pin To Net: NetName=NetL2_5 Pin=Q5-2
+Added Pin To Net: NetName=3.3V Pin=Q5-3
+Added Member To Class: ClassName=ngoc_say Member=Component C7 104
+Added Member To Class: ClassName=ngoc_say Member=Component C8 104

@@ -1,0 +1,67 @@
+Removed Pin From Net: NetName=B Pin=*-6
+Removed Pin From Net: NetName=seg3 Pin=*-7
+Removed Pin From Net: NetName=button1 Pin=*-30
+Removed Pin From Net: NetName=GND Pin=P5-2
+Removed Pin From Net: NetName=NetP6_1 Pin=Q1-2
+Removed Pin From Net: NetName=Vin Pin=Q1-3
+Removed Pin From Net: NetName=5V Pin=Q7-2
+Removed Pin From Net: NetName=button1 Pin=SW1-3
+Removed Pin From Net: NetName=GND Pin=SW1-4
+Change Component Footprint: Designator=P1 Old Footprint=HDR/Header/3/2mm New Footprint=HDR/Header/4/2mm
+Change Component Footprint: Designator=Q7 Old Footprint=SOT23B New Footprint=SOT-23
+Change Component Footprint: Designator=Q1 Old Footprint=SOT-23 New Footprint=TO-220/HeatSink
+Change Component Footprint: Designator=SW1 Old Footprint=SW4 New Footprint=SW2
+Change Component Comment : Designator=Q7 Old Comment=C1815 New Comment=Mosfet a03400
+Change Component Comment : Designator=P1 Old Comment=downcode New Comment=Header 4
+Change Component Comment : Designator=Q1 Old Comment=Mosfet P New Comment=irf9z34n
+Change Component Comment : Designator=SW1 Old Comment=Nut Nhan 4 Chan New Comment=Nut Nhan 2 Chan ( Dip )
+Change component parameters: Designator = "R1" ("R1"); Footprint = "RES_0805"; UniqueID = "\XBWGSTIM" ("\XBWGSTIM")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "??á "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0805FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number-1"; Value = "311-1.00KCRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier-1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "RES_0805"; UniqueID = "\ASMFARSQ" ("\ASMFARSQ")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "??á "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0805FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number-1"; Value = "311-1.00KCRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier-1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "RES_0805"; UniqueID = "\NOFREBWA" ("\NOFREBWA")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "??á "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0805FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number-1"; Value = "311-1.00KCRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier-1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "RES_0805"; UniqueID = "\MYRLSWEM" ("\MYRLSWEM")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "??á "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0805FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number-1"; Value = "311-1.00KCRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier-1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW1" ("SW1"); Footprint = "SW4"; UniqueID = "\SJOHYBSY" ("\SJOHYBSY")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH001959"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Nút Nh?n 2 Chân 6x6x5MM DIP"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q7" ("Q7"); Footprint = "SOT23B"; UniqueID = "\RYUAGRJJ" ("\RYUAGRJJ")
+Change component parameters (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=button1 Pin=*-6
+Added Pin To Net: NetName=seg3 Pin=*-29
+Added Pin To Net: NetName=B Pin=*-30
+Added Pin To Net: NetName=3.3V Pin=P1-4
+Added Pin To Net: NetName=5V Pin=P5-1
+Added Pin To Net: NetName=Vin Pin=Q1-2
+Added Pin To Net: NetName=NetP6_1 Pin=Q1-3
+Added Pin To Net: NetName=GND Pin=Q7-2
+Added Pin To Net: NetName=NetP5_2 Pin=P5-2
+Added Pin To Net: NetName=NetP5_2 Pin=Q7-3
+Added Net: Name=NetP5_2
+Added Room: Name=ngoc_say

@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=seg2 Pin=*-6
+Removed Pin From Net: NetName=F Pin=*-8
+Removed Pin From Net: NetName=E Pin=*-9
+Removed Pin From Net: NetName=A Pin=*-10
+Removed Pin From Net: NetName=C Pin=*-11
+Removed Pin From Net: NetName=B Pin=*-12
+Removed Pin From Net: NetName=G Pin=*-14
+Removed Pin From Net: NetName=seg1 Pin=*-16
+Removed Pin From Net: NetName=seg4 Pin=*-23
+Added Pin To Net: NetName=E Pin=*-6
+Added Pin To Net: NetName=C Pin=*-8
+Added Pin To Net: NetName=G Pin=*-9
+Added Pin To Net: NetName=seg4 Pin=*-10
+Added Pin To Net: NetName=seg1 Pin=*-11
+Added Pin To Net: NetName=A Pin=*-12
+Added Pin To Net: NetName=F Pin=*-14
+Added Pin To Net: NetName=seg2 Pin=*-16
+Added Pin To Net: NetName=B Pin=*-23
+Added Room: Name=ngoc_say

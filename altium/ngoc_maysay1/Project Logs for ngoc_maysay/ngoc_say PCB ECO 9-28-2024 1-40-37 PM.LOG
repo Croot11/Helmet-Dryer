@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=Vin Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C7-2
+Change Component Footprint: Designator=C7 Old Footprint=tu 0603 New Footprint=Tu 0805
+Change component parameters: Designator = "C7" ("C7"); Footprint = "tu 0603"; UniqueID = "\DFNCCGUI" ("\DFNCCGUI")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004551"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 0805 104-100nF 10% 50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=Vin Pin=C7-2

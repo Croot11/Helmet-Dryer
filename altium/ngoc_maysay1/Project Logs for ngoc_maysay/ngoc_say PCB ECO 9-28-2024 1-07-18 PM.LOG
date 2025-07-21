@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=Vin Pin=Q1-2
+Removed Pin From Net: NetName=NetP6_1 Pin=Q1-3
+Removed Pin From Net: NetName=NetR8_2 Pin=U3-1
+Removed Pin From Net: NetName=GND Pin=U3-2
+Removed Pin From Net: NetName=NetQ2_1 Pin=U3-3
+Removed Pin From Net: NetName=NetR7_2 Pin=U3-4
+Removed Member From Class: ClassName=ngoc_say Member=Q1
+Removed Member From Class: ClassName=ngoc_say Member=U3
+Added Component: Designator=Q?(SOT-23)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(SOP4)
+Add component (AddParameter): Name = "Value"; Value = "PC817"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetP6_1 Pin=Q?-2
+Added Pin To Net: NetName=Vin Pin=Q?-3
+Added Pin To Net: NetName=NetR8_2 Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=NetQ2_1 Pin=U?-3
+Added Pin To Net: NetName=NetR7_2 Pin=U?-4
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Pin To Net: NetName=NetQ3_2 Pin=Q?-1
+Added Pin To Net: NetName=NetQ3_2 Pin=R6-2
+Added Net: Name=NetQ3_2
+Added Member To Class: ClassName=ngoc_say Member=Component Q? Mosfet P
+Added Member To Class: ClassName=ngoc_say Member=Component U? OPTO PC817 SMD

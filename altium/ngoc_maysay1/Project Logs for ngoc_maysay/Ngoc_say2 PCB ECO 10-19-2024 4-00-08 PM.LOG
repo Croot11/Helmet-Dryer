@@ -1,0 +1,92 @@
+Removed Pin From Net: NetName=5V Pin=P7-1
+Removed Pin From Net: NetName=GND Pin=P7-2
+Removed Pin From Net: NetName=GND Pin=P7-4
+Removed Pin From Net: NetName=DIN Pin=P7-5
+Removed Pin From Net: NetName=BCLK Pin=P7-6
+Removed Pin From Net: NetName=LRC Pin=P7-7
+Removed Member From Class: ClassName=ngoc_say Member=P7
+Change Component Footprint: Designator=L1 Old Footprint=CUON_CAM 100UH New Footprint=Cuon Cam 7.5x7x5
+Change Component Footprint: Designator=P4 Old Footprint=HDR/Terminal/3 New Footprint=HDR/Header/7/2mm
+Change Component Comment : Designator=L1 Old Comment=220uH 3A New Comment=100uH - 3A SMD
+Change Component Comment : Designator=P4 Old Comment=heat New Comment=Header 7
+Change Component Designator: OldDesignator=R1 NewDesignator=1
+Change Component Designator: OldDesignator=R2 NewDesignator=2
+Change Component Designator: OldDesignator=R3 NewDesignator=3
+Change Component Designator: OldDesignator=R4 NewDesignator=4
+Change Component Designator: OldDesignator=R5 NewDesignator=5
+Change Component Designator: OldDesignator=R6 NewDesignator=6
+Change Component Designator: OldDesignator=R7 NewDesignator=7
+Change Component Designator: OldDesignator=R8 NewDesignator=8
+Change Component Designator: OldDesignator=R9 NewDesignator=9
+Change Component Designator: OldDesignator=R10 NewDesignator=10
+Change Component Designator: OldDesignator=R11 NewDesignator=11
+Change Component Designator: OldDesignator=R12 NewDesignator=12
+Change component parameters: Designator = "R1" ("R1"); Footprint = "RES_0805"; UniqueID = "\XBWGSTIM" ("\XBWGSTIM")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "??á "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0805FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number-1"; Value = "311-1.00KCRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier-1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "RES_0805"; UniqueID = "\ASMFARSQ" ("\ASMFARSQ")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "??á "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0805FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number-1"; Value = "311-1.00KCRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier-1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "RES_0805"; UniqueID = "\NOFREBWA" ("\NOFREBWA")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "??á "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0805FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number-1"; Value = "311-1.00KCRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier-1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "RES_0805"; UniqueID = "\MYRLSWEM" ("\MYRLSWEM")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "??á "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0805FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number-1"; Value = "311-1.00KCRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier-1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L1" ("L1"); Footprint = "CUON_CAM 100UH"; UniqueID = "\AGJEFXQK" ("\AGJEFXQK")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Cu?n C?m 100uH 7x7x4MM CD74"; VariantName = "[No Variations]"
+Added Component: Designator=C6(tu tantalum smd3528)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH007595"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? tantalum 107J-100uF 6.3V SMD3528"; VariantName = "[No Variations]"
+Added Component: Designator=P3(HDR/Terminal/2)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=5V Pin=P4-1
+Added Pin To Net: NetName=GND Pin=P4-2
+Added Pin To Net: NetName=GND Pin=P4-4
+Added Pin To Net: NetName=DIN Pin=P4-5
+Added Pin To Net: NetName=BCLK Pin=P4-6
+Added Pin To Net: NetName=LRC Pin=P4-7
+Added Pin To Net: NetName=NetP3_1 Pin=P3-1
+Added Pin To Net: NetName=NetP3_1 Pin=RL1-1
+Added Net: Name=NetP3_1
+Added Pin To Net: NetName=NetP3_2 Pin=P3-2
+Added Pin To Net: NetName=NetP3_2 Pin=RL1-3
+Added Net: Name=NetP3_2
+Added Member To Class: ClassName=ngoc_say Member=Component 5 220R
+Added Member To Class: ClassName=ngoc_say Member=Component 7 220R
+Added Member To Class: ClassName=ngoc_say Member=Component 12 330R
+Added Member To Class: ClassName=ngoc_say Member=Component C6 100uF
+Added Member To Class: ClassName=ngoc_say Member=Component P3 Header 2
+Added Member To Class: ClassName=ngoc_say Member=Component R1 1K
+Added Member To Class: ClassName=ngoc_say Member=Component R2 10K
+Added Member To Class: ClassName=ngoc_say Member=Component R6 10K
+Added Member To Class: ClassName=ngoc_say Member=Component R8 1K
+Added Member To Class: ClassName=ngoc_say Member=Component R9 1K
+Added Room: Name=ngoc_say

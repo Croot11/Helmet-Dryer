@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=seg1 Pin=R10-1
+Removed Pin From Net: NetName=seg2 Pin=R11-1
+Removed Member From Class: ClassName=ngoc_say Member=R10
+Removed Member From Class: ClassName=ngoc_say Member=R11
+Added Component: Designator=9(R 0805)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=10(R 0805)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=seg1 Pin=9-2
+Added Pin To Net: NetName=seg2 Pin=10-2
+Added Pin To Net: NetName=Net9_1 Pin=9-1
+Added Pin To Net: NetName=Net9_1 Pin=Q4-1
+Added Net: Name=Net9_1
+Added Pin To Net: NetName=Net10_1 Pin=10-1
+Added Pin To Net: NetName=Net10_1 Pin=Q5-1
+Added Net: Name=Net10_1
+Added Member To Class: ClassName=ngoc_say Member=Component 9 220R
+Added Member To Class: ClassName=ngoc_say Member=Component 10 220R
+Added Room: Name=ngoc_say

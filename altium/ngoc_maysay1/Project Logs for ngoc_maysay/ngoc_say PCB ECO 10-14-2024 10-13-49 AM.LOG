@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=seg4 Pin=*-10
+Removed Pin From Net: NetName=seg1 Pin=*-11
+Added Pin To Net: NetName=seg1 Pin=*-10
+Added Pin To Net: NetName=seg4 Pin=*-11
+Added Room: Name=ngoc_say

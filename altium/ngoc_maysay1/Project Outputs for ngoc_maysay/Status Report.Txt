@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [ngoc_maysay.PrjPcb]
+   Generated File[Pick Place for Ngoc_say2.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 9:06:50 PM On 10/19/2024

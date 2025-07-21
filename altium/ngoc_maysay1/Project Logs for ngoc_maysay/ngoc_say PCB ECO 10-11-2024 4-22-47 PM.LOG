@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=Net4_1 Pin=L2-1
+Removed Pin From Net: NetName=Net5_1 Pin=L2-2
+Removed Pin From Net: NetName=Net6_1 Pin=L2-4
+Removed Pin From Net: NetName=Net2_1 Pin=L2-5
+Removed Pin From Net: NetName=Net7_1 Pin=L2-7
+Removed Pin From Net: NetName=Net3_1 Pin=L2-10
+Removed Pin From Net: NetName=Net8_1 Pin=L2-11
+Removed Member From Class: ClassName=ngoc_say Member=L2
+Added Component: Designator=L?(LED 7x4 0.36)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001048"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Led 7 0.36 4 S? Anot (Sáng Ð?)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net4_1 Pin=L?-1
+Added Pin To Net: NetName=Net5_1 Pin=L?-2
+Added Pin To Net: NetName=Net6_1 Pin=L?-4
+Added Pin To Net: NetName=Net2_1 Pin=L?-5
+Added Pin To Net: NetName=Net7_1 Pin=L?-7
+Added Pin To Net: NetName=Net3_1 Pin=L?-10
+Added Pin To Net: NetName=Net8_1 Pin=L?-11
+Added Pin To Net: NetName=NetL?_6 Pin=L?-6
+Added Pin To Net: NetName=NetL?_6 Pin=Q8-2
+Added Net: Name=NetL?_6
+Added Pin To Net: NetName=NetL?_8 Pin=L?-8
+Added Pin To Net: NetName=NetL?_8 Pin=Q6-2
+Added Net: Name=NetL?_8
+Added Pin To Net: NetName=NetL?_9 Pin=L?-9
+Added Pin To Net: NetName=NetL?_9 Pin=Q5-2
+Added Net: Name=NetL?_9
+Added Pin To Net: NetName=NetL?_12 Pin=L?-12
+Added Pin To Net: NetName=NetL?_12 Pin=Q4-2
+Added Net: Name=NetL?_12
+Added Member To Class: ClassName=ngoc_say Member=Component L? LED 7 Thanh

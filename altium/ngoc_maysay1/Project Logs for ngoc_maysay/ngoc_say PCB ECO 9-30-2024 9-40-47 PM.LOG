@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=Vin Pin=C7-2
+Removed Pin From Net: NetName=3.3V Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C8-2
+Removed Pin From Net: NetName=3.3V Pin=C11-1
+Removed Pin From Net: NetName=3.3V Pin=LM1-4
+Removed Member From Class: ClassName=ngoc_say Member=C7
+Removed Member From Class: ClassName=ngoc_say Member=C8
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=NetC11_1 Pin=LM1-4
+Added Net: Name=NetC11_1
+Added Room: Name=ngoc_say

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=3.3V Pin=D2-1
+Removed Pin From Net: NetName=PC13 Pin=R4-2
+Removed Member From Class: ClassName=ngoc_say Member=D2
+Removed Member From Class: ClassName=ngoc_say Member=R4
+Change Component Designator: OldDesignator=  NewDesignator=R6
+Added Room: Name=ngoc_say

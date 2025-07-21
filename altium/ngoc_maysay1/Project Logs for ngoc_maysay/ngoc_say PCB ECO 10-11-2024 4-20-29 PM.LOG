@@ -1,0 +1,132 @@
+Removed Pin From Net: NetName=G Pin=*-13
+Removed Pin From Net: NetName=seg1 Pin=*-14
+Removed Pin From Net: NetName=led5mm Pin=*-16
+Removed Pin From Net: NetName=Net2_1 Pin=L2-1
+Removed Pin From Net: NetName=Net8_1 Pin=L2-3
+Removed Pin From Net: NetName=Net3_1 Pin=L2-4
+Removed Pin From Net: NetName=Net5_1 Pin=L2-6
+Removed Pin From Net: NetName=Net4_1 Pin=L2-7
+Removed Pin From Net: NetName=Net6_1 Pin=L2-8
+Removed Pin From Net: NetName=Net7_1 Pin=L2-9
+Change Component Footprint: Designator=L2 Old Footprint=LED 7x2 0.36 New Footprint=LED 7x4 0.56
+Change component parameters: Designator = "R1" ("R1"); Footprint = "RES_0805"; UniqueID = "\XBWGSTIM" ("\XBWGSTIM")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "??á "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0805FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number-1"; Value = "311-1.00KCRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier-1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "RES_0805"; UniqueID = "\ASMFARSQ" ("\ASMFARSQ")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "??á "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0805FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number-1"; Value = "311-1.00KCRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier-1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "RES_0805"; UniqueID = "\NOFREBWA" ("\NOFREBWA")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "??á "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0805FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number-1"; Value = "311-1.00KCRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier-1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "RES_0805"; UniqueID = "\MYRLSWEM" ("\MYRLSWEM")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "??á "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0805FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number-1"; Value = "311-1.00KCRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier-1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L2" ("L2"); Footprint = "LED 7x2 0.36"; UniqueID = "\JGAZUKST" ("\JGAZUKST")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH000898"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Led 7 0.56 4 S? Anot (Sáng Ð?)"; VariantName = "[No Variations]"
+Added Component: Designator=11(R 0805)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=12(R 0805)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P7(HDR/Header/7)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q6(SOT23)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001957"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "A1015 SOT23 TRANS PNP 0.15A 50V ( SMD-BA)"; VariantName = "[No Variations]"
+Added Component: Designator=Q8(SOT23)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001957"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "A1015 SOT23 TRANS PNP 0.15A 50V ( SMD-BA)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=G Pin=*-14
+Added Pin To Net: NetName=seg1 Pin=*-16
+Added Pin To Net: NetName=led5mm Pin=*-27
+Added Pin To Net: NetName=Net4_1 Pin=L2-1
+Added Pin To Net: NetName=Net5_1 Pin=L2-2
+Added Pin To Net: NetName=Net6_1 Pin=L2-4
+Added Pin To Net: NetName=Net2_1 Pin=L2-5
+Added Pin To Net: NetName=Net7_1 Pin=L2-7
+Added Pin To Net: NetName=Net3_1 Pin=L2-10
+Added Pin To Net: NetName=Net8_1 Pin=L2-11
+Added Pin To Net: NetName=5V Pin=P7-1
+Added Pin To Net: NetName=GND Pin=P7-2
+Added Pin To Net: NetName=GND Pin=P7-4
+Added Pin To Net: NetName=3.3V Pin=Q6-3
+Added Pin To Net: NetName=3.3V Pin=Q8-3
+Change Net Name : Old Net Name=GND New Net Name=GAIN
+Added Pin To Net: NetName=BCLK Pin=*-13
+Added Pin To Net: NetName=BCLK Pin=P7-6
+Added Net: Name=BCLK
+Added Pin To Net: NetName=DIN Pin=*-36
+Added Pin To Net: NetName=DIN Pin=P7-5
+Added Net: Name=DIN
+Added Pin To Net: NetName=LRC Pin=*-33
+Added Pin To Net: NetName=LRC Pin=P7-7
+Added Net: Name=LRC
+Added Pin To Net: NetName=Net11_1 Pin=11-1
+Added Pin To Net: NetName=Net11_1 Pin=Q6-1
+Added Net: Name=Net11_1
+Added Pin To Net: NetName=Net12_1 Pin=12-1
+Added Pin To Net: NetName=Net12_1 Pin=Q8-1
+Added Net: Name=Net12_1
+Added Pin To Net: NetName=NetL2_6 Pin=L2-6
+Added Pin To Net: NetName=NetL2_6 Pin=Q8-2
+Added Net: Name=NetL2_6
+Added Pin To Net: NetName=NetL2_8 Pin=L2-8
+Added Pin To Net: NetName=NetL2_8 Pin=Q6-2
+Added Net: Name=NetL2_8
+Added Pin To Net: NetName=NetL2_9 Pin=L2-9
+Added Pin To Net: NetName=NetL2_9 Pin=Q5-2
+Added Net: Name=NetL2_9
+Added Pin To Net: NetName=NetL2_12 Pin=L2-12
+Added Pin To Net: NetName=NetL2_12 Pin=Q4-2
+Added Net: Name=NetL2_12
+Added Pin To Net: NetName=seg3 Pin=11-2
+Added Pin To Net: NetName=seg3 Pin=*-26
+Added Net: Name=seg3
+Added Pin To Net: NetName=seg4 Pin=12-2
+Added Pin To Net: NetName=seg4 Pin=*-23
+Added Net: Name=seg4
+Added Member To Class: ClassName=ngoc_say Member=Component 11 330R
+Added Member To Class: ClassName=ngoc_say Member=Component 12 330R
+Added Member To Class: ClassName=ngoc_say Member=Component P7 MAX98357
+Added Member To Class: ClassName=ngoc_say Member=Component Q6 A 1015
+Added Member To Class: ClassName=ngoc_say Member=Component Q8 A 1015
+Added Room: Name=ngoc_say

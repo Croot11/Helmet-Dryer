@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=button2 Pin=U1-26
+Removed Pin From Net: NetName=button3 Pin=U1-27
+Removed Pin From Net: NetName=D Pin=U1-28
+Removed Pin From Net: NetName=button1 Pin=U1-29
+Removed Pin From Net: NetName=seg2 Pin=U1-30
+Removed Pin From Net: NetName=G Pin=U1-31
+Removed Pin From Net: NetName=F Pin=U1-32
+Removed Pin From Net: NetName=E Pin=U1-33
+Removed Pin From Net: NetName=C Pin=U1-39
+Removed Pin From Net: NetName=seg1 Pin=U1-40
+Removed Pin From Net: NetName=B Pin=U1-41
+Removed Pin From Net: NetName=A Pin=U1-42
+Change Component Designator: OldDesignator=  NewDesignator=R6
+Change Component Description : Designator=R1 Old Description=1 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film New Description= 1 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film
+Change Component Description : Designator=R4 Old Description=1 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film New Description= 1 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film
+Change Component Description : Designator=R8 Old Description=1 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film New Description= 1 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film
+Change Component Description : Designator=R9 Old Description=1 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film New Description= 1 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film
+Change Component Description : Designator=U1 Old Description=ARM® Cortex®-M3 STM32F1 Microcontroller IC 32-Bit 72MHz 64KB (64K x 8) FLASH New Description=ARM® Cortex®-M3 STM32F1 Microcontroller IC 32-Bit 72MHz 64KB (64K x 8) FLASH 
+
+Change component parameters: Designator = "R1" ("R1"); Footprint = "RES_0805"; UniqueID = "\XBWGSTIM" ("\XBWGSTIM")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "??á "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0805FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number-1"; Value = "311-1.00KCRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier-1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "RES_0805"; UniqueID = "\HJDIOVDX" ("\HJDIOVDX")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "??á "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0805FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number-1"; Value = "311-1.00KCRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier-1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "RES_0805"; UniqueID = "\ASMFARSQ" ("\ASMFARSQ")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "??á "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0805FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number-1"; Value = "311-1.00KCRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier-1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "RES_0805"; UniqueID = "\NOFREBWA" ("\NOFREBWA")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "??á "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0805FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number-1"; Value = "311-1.00KCRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier-1"; Value = "Digikey"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=button1 Pin=U1-17
+Added Pin To Net: NetName=button2 Pin=U1-18
+Added Pin To Net: NetName=button3 Pin=U1-19
+Added Pin To Net: NetName=seg2 Pin=U1-25
+Added Pin To Net: NetName=seg1 Pin=U1-26
+Added Pin To Net: NetName=G Pin=U1-27
+Added Pin To Net: NetName=F Pin=U1-28
+Added Pin To Net: NetName=E Pin=U1-29
+Added Pin To Net: NetName=D Pin=U1-30
+Added Pin To Net: NetName=C Pin=U1-31
+Added Pin To Net: NetName=B Pin=U1-32
+Added Pin To Net: NetName=A Pin=U1-33
+Added Member To Class: ClassName=ngoc_say Member=Component R6 10K
+Added Room: Name=ngoc_say

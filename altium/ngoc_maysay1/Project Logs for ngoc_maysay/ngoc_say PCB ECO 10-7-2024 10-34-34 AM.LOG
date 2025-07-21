@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=ledUV Pin=*-16
+Removed Pin From Net: NetName=led5mm Pin=*-36
+Added Pin To Net: NetName=led5mm Pin=*-16
+Added Pin To Net: NetName=ledUV Pin=*-28
+Added Room: Name=ngoc_say
